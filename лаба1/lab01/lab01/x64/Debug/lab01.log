@@ -1,0 +1,3 @@
+﻿  lab1.cpp
+C:\Users\admin\Documents\уник\аисд\лабы по аисд\лаба1\lab01\lab01\lab1.cpp(49,18): warning C4244: =: преобразование "unsigned __int64" в "int", возможна потеря данных
+  lab01.vcxproj -> C:\Users\admin\Documents\уник\аисд\лабы по аисд\лаба1\lab01\x64\Debug\lab01.exe

@@ -1,0 +1,4 @@
+﻿  lab_4_01.cpp
+C:\Users\admin\Documents\уник\аисд\лабы по аисд\лаба 4\lab_4_01\lab_4_01\lab_4_01.cpp(76,11): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+C:\Users\admin\Documents\уник\аисд\лабы по аисд\лаба 4\lab_4_01\lab_4_01\lab_4_01.cpp(97,15): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  lab_4_01.vcxproj -> C:\Users\admin\Documents\уник\аисд\лабы по аисд\лаба 4\lab_4_01\x64\Debug\lab_4_01.exe
